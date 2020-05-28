@@ -17,5 +17,6 @@ To use this application you need have NodeJs installed in your system. Then clon
 -                   npm install
   This will install all the dependencies and to test the application run any of the following command-
 -                   npm start
-  or
+                       or
 -                   node main.js
+and you will get the status of the product in your console.
