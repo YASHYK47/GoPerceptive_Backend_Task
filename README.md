@@ -8,9 +8,9 @@ GoPerceptive is an AI powered eCommerce Analytics startup. Through their 3 step 
 
 ## Solution -
 
-- Implemented the application by using puppeteer module provided by npm.by providing the url of au product from flipkart, you will get to know it is- In Stock, Coming Soon or Out of Stock.
+- Implemented the application by using puppeteer module provided by npm.by providing the url of of the product from flipkart, you will get to know it is- In Stock, Coming Soon or Out of Stock.
 
-## Requirements :-
+## To Run :-
 
 To use this application you need have NodeJs installed in your system. Then clone this repository and install all the dependencies in this folder by using following command-
 
@@ -19,4 +19,4 @@ To use this application you need have NodeJs installed in your system. Then clon
 -                   npm start
                        or
 -                   node main.js
-and you will get the status of the product in your console.
+  and you will get the status of the product in your console.
